@@ -13,22 +13,17 @@ If you want to make any report or feature request, please send an email to [be.c
 
 ### Title/subject
 
-In case of a security/vulnerability report: `[SECURITY] *your own custom title/reason*`
+In case of a security/vulnerability report: `[SECURITY] *your custom title/reason*`
 
-In case of a technical feedback: `[TECH] *your own custom title/reason*`
+In case of a technical feedback: `[TECH] *your custom title/reason*`
 
-In case of a feature request: `[REQUEST] *your own custom title/reason*`
+In case of a feature request: `[REQUEST] *your custom title/reason*`
 
 **Any other format could be not checked**
 
 ### Body/Message
 
 You are free to format your message as you want.
-
-## Near future plans
-
-- License AzulCourier source code as MIT.
-- Publish AzulCourier libraries and miscellaneous tools.
 
 ---
 
